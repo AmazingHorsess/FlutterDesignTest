@@ -48,3 +48,5 @@ const TextTheme TEXT_THEME_SMALL = TextTheme(
     TextStyle(color: COLOR_BLACK, fontSize: 10, fontWeight: FontWeight.w400),
     subtitle2: TextStyle(
         color: COLOR_GREY, fontSize: 10, fontWeight: FontWeight.w400));
+
+const EdgeInsets PADDING = EdgeInsets.symmetric(horizontal: 25);
